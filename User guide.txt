@@ -1,0 +1,17 @@
+Administrator Login Account:
+Email: 
+jwan0102@student.monash.edu
+
+Password: 
+Potato1!
+
+Normal customer account (Of course you can register an new account, this is I provieded for testing):
+Email:
+fit5032@monash.edu
+
+Password:
+Potato1!
+
+Note:
+SignalR and send Email function are hidden in the button 'Write a comment' and 'Subscribe Now'. You can scroll down to see it. Thanks.
+
